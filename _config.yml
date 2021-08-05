@@ -2,8 +2,8 @@
 remote_theme: epidrome/cover-card@main
 
 # Title and tag line
-title: 'Vadym Teslia'
-description: 'Linux, cloud and CDN engineer, traveler, fanatic of railways and aviation.'
+title: 'Maria Holub'
+description: 'QA Engineer and traveler.'
 
 # Images
 avatar: 'avatar.jpg'
@@ -11,16 +11,16 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-facebook: '100008440994111'
-twitter: 'vteslia'
-linkedin: 'vteslia'
-instagram: 'vadym.teslia'
-github-user: 'vteslia'
+#facebook: ''
+#twitter: ''
+linkedin: 'holubmaria'
+#instagram: ''
+github-user: 'MariaHolub'
 #stack-overflow: ''
 #reddit: ''
 #medium:  ''
 #blog_url: 'myblog.blog.com'
-email: 'vadym@teslia.me'
+email: 'me@miaholub.work'
 #messenger: 'myfbchat'
 
 social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
