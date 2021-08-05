@@ -3,7 +3,7 @@ remote_theme: epidrome/cover-card@main
 
 # Title and tag line
 title: 'Maria Holub'
-description: 'QA Engineer and traveler.'
+description: 'QA Engineer and traveler'
 
 # Images
 avatar: 'avatar.jpg'
